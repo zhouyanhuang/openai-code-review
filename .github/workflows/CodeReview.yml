@@ -69,5 +69,5 @@ jobs:
           WEIXIN_TOUSER: oYC_b7QSoMP6DelfkA3h6r2foeA0
           WEIXIN_TEMPLATE_ID: 8TvuTWkwEHccDEq_A8l3wq3gXlXzhrDPWEDySexlazs
           # OpenAi - ChatGLM 配置「https://open.bigmodel.cn/api/paas/v4/chat/completions」、「https://open.bigmodel.cn/usercenter/apikeys」
-          CHATGLM_APIHOST: https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions
+          CHATGLM_APIHOST: https://open.bigmodel.cn/api/paas/v4/chat/completions
           CHATGLM_APIKEYSECRET: 70597efaa293c9c0ae038006a4255bbb.7FHdfmaqYQPxrjc5
