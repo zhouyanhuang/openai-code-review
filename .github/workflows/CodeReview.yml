@@ -58,7 +58,7 @@ jobs:
         env:
           # Github 配置；GITHUB_REVIEW_LOG_URI「https://github.com/xfg-studio-project/openai-code-review-log」、GITHUB_TOKEN「https://github.com/settings/tokens」
           GITHUB_REVIEW_LOG_URI: https://github.com/zhouyanhuang/openai-code-review-log
-          GITHUB_TOKEN: ${{ secrets.CODE_TOKEN }}
+          GITHUB_TOKEN: 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
           COMMIT_PROJECT: ${{ env.REPO_NAME }}
           COMMIT_BRANCH: ${{ env.BRANCH_NAME }}
           COMMIT_AUTHOR: ${{ env.COMMIT_AUTHOR }}
